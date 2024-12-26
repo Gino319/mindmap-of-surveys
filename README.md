@@ -10,4 +10,4 @@ The table below lists the mind map files and their corresponding surveys:
 |:---:|:---:|
 |`mindmap_of_llms.pdf`|[A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)|
 |`mindmap_of_llm_based_agents.pdf`|[The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)|
-|`mindmap_of_mllms.pdf`|[Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)|
+|`mindmap_of_mllms.pdf`|[A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)|
